@@ -1,0 +1,4 @@
+F:\Workspaces\TechnoRex\ResultProvider\bin\Debug\TechnoRex.ResultProvider.dll
+F:\Workspaces\TechnoRex\ResultProvider\bin\Debug\TechnoRex.ResultProvider.pdb
+F:\Workspaces\TechnoRex\ResultProvider\obj\Debug\TechnoRex.ResultProvider.dll
+F:\Workspaces\TechnoRex\ResultProvider\obj\Debug\TechnoRex.ResultProvider.pdb
